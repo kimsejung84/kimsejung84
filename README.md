@@ -1,3 +1,4 @@
+- Data Science Lead in Platform Division of Buying Square
 - Data Scientist in SI Analytics
 - In Data Scientist,Data Engineering, Machine Learning Field
 - M.S., Business Analytics, UNIST, South Korea
